@@ -6,7 +6,7 @@ by404rgr
       apt upgrade
       apt install git
       apt install python
-      git clone https://github.com/404rgr/spamerCALL
+      git clone https://github.com/dqanshi/spamerCALL
       cd spamerCALL
       pip install -r requirements.txt
       python spamercall.py
